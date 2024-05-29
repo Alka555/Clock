@@ -1,0 +1,14 @@
+*{
+    overflow-x: hidden;
+}
+
+.clk{
+    background-color: black;
+    color: greenyellow;
+    width: 100vw;
+    height: 100vh;
+    font-size: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
